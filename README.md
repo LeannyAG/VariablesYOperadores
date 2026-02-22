@@ -1,6 +1,6 @@
 # VariablesYOperadores
 
-## 📌 Descripción del Proyecto
+# Descripción del Proyecto
 Este programa en Java demuestra el uso de variables, operadores aritméticos, operadores lógicos y estructuras de control. 
 El programa solicita datos al usuario y realiza diferentes validaciones y clasificaciones.todo en uno solo 
 
